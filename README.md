@@ -1,12 +1,12 @@
-# Word Indonesia
+# Windows Indonesia
 
-**#1 Tutorial Belajar Microsoft Word Bahasa Indonesia**
+**#1 Tutorial, Troubleshooting, dan Q&A Windows 10 dan 11**
 
-Situs web Word Indonesia membahas panduan lengkap program aplikasi pengolah kata Microsoft Word mulai dari dasar (basic) sampai mahir (advanced).
+Situs web Windows Indonesia, panduan lengkap membahas tutorial, perbaikan masalah, dan tanya-jawab seputar sistem operasi Windows 10 dan 11.
 
-Kunjungi situs Word Indonesia di alamat [wordindonesia.id](https://wordindonesia.id) atau ikuti akun media sosial kami berikut.
+Kunjungi situs Windows Indonesia di alamat [windowsindonesia.id](https://windowsindonesia.id) atau ikuti akun media sosial kami berikut.
 
-- [Facebook](https://www.facebook.com/wordindonesia.id)
-- [Twitter](https://twitter.com/wordindonesia)
+- [Facebook](https://www.facebook.com/windowsindonesia.id)
+- [Twitter](https://twitter.com/windows_IDN)
 
-Word Indonesia bagian dari [**Office Indonesia**](https://www.youtube.com/channel/UCxNKZsgtxVGnzcqjNd7ZFFQ).
+Word Indonesia bagian dari [**Launch Indonesia**](https://www.youtube.com/channel/UCxNKZsgtxVGnzcqjNd7ZFFQ).
