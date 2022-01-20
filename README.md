@@ -7,6 +7,6 @@ Situs web Windows Indonesia, panduan lengkap membahas tutorial, perbaikan masala
 Kunjungi situs Windows Indonesia di alamat [windowsindonesia.id](https://windowsindonesia.id) atau ikuti akun media sosial kami berikut.
 
 - [Facebook](https://www.facebook.com/windowsindonesia.id)
-- [Twitter](https://twitter.com/windows_IDN)
+- [Twitter](https://twitter.com/windowsidn)
 
 Word Indonesia bagian dari [**Launch Indonesia**](https://www.youtube.com/channel/UCxNKZsgtxVGnzcqjNd7ZFFQ).
