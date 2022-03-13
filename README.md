@@ -8,5 +8,6 @@ Kunjungi situs Windows Indonesia di alamat [windowsindonesia.id](https://windows
 
 - [Facebook](https://www.facebook.com/windowsidn)
 - [Twitter](https://twitter.com/windowsidn)
+- [LinkedIn](https://www.linkedin.com/company/windowsidn)
 
 Word Indonesia bagian dari [**Launch Indonesia**](https://www.youtube.com/c/launchid).
