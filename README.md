@@ -1,8 +1,8 @@
 # Windows Indonesia
 
-**#1 Tutorial, Troubleshooting, dan Q&A Windows 10 dan 11**
+**Windows Indonesia - Berita, Tips, Tutorial, dan Troubleshooting**
 
-Situs web Windows Indonesia, panduan lengkap membahas tutorial, perbaikan masalah, dan tanya-jawab seputar sistem operasi Windows 10 dan 11.
+Berita terbaru seputar sistem operasi Windows 10 dan 11, tips, tutorial, dan perbaikan masalah atau error.
 
 Kunjungi situs Windows Indonesia di alamat [windowsindonesia.id](https://windowsindonesia.id) atau ikuti akun media sosial kami berikut.
 
