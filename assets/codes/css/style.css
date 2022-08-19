@@ -1,7 +1,7 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css");
 
 * {
-	box-sizing: border-box;
+	box-sizing: border-box
 }
 
 body {
@@ -18,7 +18,7 @@ a {
 img {
 	width: 100%;
 	height: auto;
-	padding: 1rem;
+	padding: 1rem
 }
 
 #main {
@@ -42,7 +42,7 @@ img {
 }
 
 #copyright a {
-	color: #575760;
+	color: #575760
 }
 
 .flex {
@@ -50,27 +50,27 @@ img {
 	flex-direction: column;
 	align-content: center;
 	align-items: center;
-	justify-content: center;
+	justify-content: center
 }
 
 .child {
-	max-width: 50%;
+	max-width: 50%
 }
 
 .fas,
 .fab {
 	font-size: 1.25rem;
 	padding: 0.5rem;
-	color: #24242480;
+	color: #24242480
 }
 
 .fas:hover,
 .fab:hover {
-	color: #242424;
+	color: #242424
 }
 
 @media (max-width: 768px) {
 	.child {
-		max-width: 80%;
+		max-width: 80%
 	}
 }
